@@ -1,5 +1,5 @@
 # Django-Todo
- Todo Application made in Django Framework that uses Docker Containerization. 
+ Containerization and CI/CD Pipelines of a Python Application. 
  
  <h1> How it Works</h1>
  This project I have created represents the concepts of container orchestration and CI/CD pipelines that I have learnt.
