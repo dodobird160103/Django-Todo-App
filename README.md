@@ -1,5 +1,5 @@
 # Django-Todo
- Todo Application made in Django Framework that uses Docker Containerization and is deployed through Minikube. 
+ Todo Application made in Django Framework that uses Docker Containerization. 
  
  <h1> How it Works</h1>
  This project I have created represents the concepts of container orchestration and CI/CD pipelines that I have learnt.
